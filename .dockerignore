@@ -1,0 +1,13 @@
+# Don't copy these into Docker image
+
+.git
+.gitignore
+.dockerignore
+.vscode/
+.idea/
+*.log
+*.swp
+*.md
+LICENSE
+README*
+deploy.sh

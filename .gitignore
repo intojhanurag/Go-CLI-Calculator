@@ -1,0 +1,12 @@
+# Binaries
+calculator
+
+# Logs
+*.log
+
+# Build folders
+/app/
+
+# OS/Editor files
+.DS_Store
+*.swp
